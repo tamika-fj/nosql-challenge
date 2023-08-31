@@ -1,1 +1,1 @@
-# nosql-challenge
+Module 12 no-SQL Challenge. In this repositry I have uploaded a folder called no-SQL which contains two Juptyer notebooks called NoSQL_analysis_starter and NoAQL_setup_starter which contain the code required to complete the asssingment with the alanysis and tables. There is also a resources folder which contains the raw data files used to complete the analysis. The pandas codes are annotated for ease of reading and understanding. To create the code I adapted code from class activities and lectures. 
